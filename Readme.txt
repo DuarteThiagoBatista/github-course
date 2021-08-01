@@ -1,3 +1,5 @@
 Git Course
 
-reset soft
+reset soft 
+
+subir alteração para o remoto
